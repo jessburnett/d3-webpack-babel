@@ -4,12 +4,16 @@
   "description": "d3 prototype kickstarter",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d lib"
   },
   "author": "Jessica Burnett",
   "license": "ISC",
   "dependencies": {
     "webpack": "^4.17.1",
     "webpack-dev-server": "^3.1.7"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
   }
 }
