@@ -18,6 +18,9 @@ Clone repo and cd into the directory where it lives then:
 npm install
 npm start
 ```
+
+Below are the manual steps taken. This is what is happening under the hood, through the automated install/setup.
+Great to use if you need to troubleshoot your local configurations.
 --------------------------------------------------------
 # Manual Project Setup
 ## Step 1: Set up your package.json file.
