@@ -1,5 +1,12 @@
 # d3-webpack-babel
-kickstarter project for rapid d3 prototyping
+- kickstarter project for rapid d3 prototyping
+- serverless frontend - use RESTful APIs
+# specs: 
+- webpack dev server for d3 (Note: these are the only 2 technologies you are forced to use at this time).
+- agnostic to any frontend framework/lib (Note: You can use bootstrap, jQuery, Vue, ES6/ES2015, etc. Use what makes most sense for your prototype)
+- scalable (Note: You can add additional structure/directories to build additional components and hook them into the project.)
+
+Please slack/email me at jessica.burnett@sparksandhoney.com if you need help extending the seed prototype to use additional technologies or modifying the initial webpack configuration to setup local environment and automated builds. 
 
 # Automated Setup Dependencies
 - node
